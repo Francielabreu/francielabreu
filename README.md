@@ -1,4 +1,17 @@
-## Olá! Eu sou o Franciel Abreu, seja bem vindo ! 🖐️
+
+<img align="right" src="assets/illustration.png" width="300"/>
+
+# Hey 👋
+
+My name is Franciel, welcome!
+
+I'm passionate about solving problems, I'm always learning more, and I love challenges. 🚀
+
+- 📌 I'm from Rio de Janeiro - RJ
+- 👨‍💻 FullStack Developer
+- ✨ I'm here to help and learn
+- 🗺️ And I also love to travel
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciel-abreu-58797b108)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href = "mailto:francielabreu23@gmail.com">)
@@ -18,4 +31,4 @@
   
 </div><br/>
 
-Apaixonado por tecnologia, venho sempre buscando cada vez mais conhecimento.
+Passionate about technology, I've always been looking for more and more knowledge.
