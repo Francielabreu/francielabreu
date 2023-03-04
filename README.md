@@ -1,6 +1,3 @@
-
-<img align="right" src="assets/illustration.png" width="300"/>
-
 # Hey 👋
 
 My name is Franciel, welcome!
